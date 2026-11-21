@@ -71,6 +71,6 @@ Every protected endpoint requires a `Bearer` JWT token (obtained from `/api/auth
 
 Match scores are calculated by comparing a student's listed tech stack against a job posting's required skills (case-insensitive, overlap-based percentage). See `Services/SkillMatchServiceSMS1.cs`.
 
-## Team
+## Author
 
-Built as a group project by **Team Dreamcatchers**: Mst. Sadia Akter, Tanushree Debnath, Mahbub Hasan.
+Built by **Mahbub Hasan** as part of a university Software Engineering group project.
