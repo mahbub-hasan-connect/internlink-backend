@@ -1,0 +1,21 @@
+### Register a new Student
+POST https://localhost:7182/api/AuthControllerAC1/register
+Content-Type: application/json
+
+{
+  "name": "Hasan Test",
+  "email": "hasan.test@example.com",
+  "password": "Test@1234",
+  "role": 0
+}
+
+### Register a Recruiter
+POST https://localhost:7182/api/AuthControllerAC1/register
+Content-Type: application/json
+
+{
+  "name": "Recruiter Test",
+  "email": "recruiter.test@example.com",
+  "password": "Test@1234",
+  "role": 1
+}

@@ -1,0 +1,18 @@
+## .NET build artifacts
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Secrets (use appsettings.json.example as a template; keep your real one local)
+appsettings.json
+
+## Logs
+*.log
+
+## OS files
+.DS_Store
+Thumbs.db
