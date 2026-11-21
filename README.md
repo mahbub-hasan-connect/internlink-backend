@@ -73,4 +73,4 @@ Match scores are calculated by comparing a student's listed tech stack against a
 
 ## Author
 
-Built by **Mahbub Hasan** as part of a university Software Engineering group project.
+Built by **Mahbub Hasan** as part of a university Software Engineering project.
